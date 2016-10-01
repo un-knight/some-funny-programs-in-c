@@ -1,4 +1,4 @@
-# some-funny-programs-in-c
+# Some Funny Programs in c
 There are some funny programs writting in c language.
 
 ## List
